@@ -3,15 +3,6 @@
     margin: 0;
     padding: 0;
 }
-body {
-    /* padding: 30px 100px; */
-    /* background-image: url(./images/illustration-devices.svg);
-    background-repeat: no-repeat;
-    background-size: 700px; */
-}
-.thing {
-    /* display: flex; */
-}
 .thing img{
     position: absolute;
     top: 20%;
