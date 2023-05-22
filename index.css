@@ -16,14 +16,12 @@ nav ul{
     justify-content: space-between;
     align-items: center;
     background-color: hsl(207, 33%, 95%);
-    /* padding: 30px 30px 400px 50px */
 }
 nav li {
     list-style-type: none;
     color: hsl(230, 29%, 20%);
     text-transform: uppercase;
     font-weight: bold;
-    /* padding: 0px 10px; */
 }
 .login {
     color: hsl(231, 7%, 65%);
